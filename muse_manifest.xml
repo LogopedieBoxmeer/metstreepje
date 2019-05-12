@@ -1,0 +1,157 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Logopedieboxmeer.nl" resolutions="1x" timestamp="1471799229402">
+  <folder name="css">
+    <file name="site_global.css" crc="288226911"/>
+    <file name="master_a-stramien.css" crc="89140038" ref="index"/>
+    <file name="index.css" crc="497281705" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="animatie-logopedie-intro2">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1471349143000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="455526227" mt="1471349143000"/>
+        <file name="Pasted.svg" crc="274767272" mt="1471349143000"/>
+        <file name="Pasted10.svg" crc="4069488782" mt="1471349143000"/>
+        <file name="Pasted11.svg" crc="357830474" mt="1471349143000"/>
+        <file name="Pasted12.svg" crc="4244452963" mt="1471349143000"/>
+        <file name="Pasted13.svg" crc="390333503" mt="1471349143000"/>
+        <file name="Pasted14.svg" crc="430953508" mt="1471349143000"/>
+        <file name="Pasted15.svg" crc="4094870323" mt="1471349143000"/>
+        <file name="Pasted16.svg" crc="208391197" mt="1471349143000"/>
+        <file name="Pasted17.svg" crc="4079052968" mt="1471349143000"/>
+        <file name="Pasted18.svg" crc="4079052968" mt="1471349143000"/>
+        <file name="Pasted19.svg" crc="4079052968" mt="1471349143000"/>
+        <file name="Pasted2.svg" crc="341326731" mt="1471349143000"/>
+        <file name="Pasted20.svg" crc="528787086" mt="1471349143000"/>
+        <file name="Pasted21.svg" crc="3766264132" mt="1471349143000"/>
+        <file name="Pasted22.svg" crc="4217624417" mt="1471349143000"/>
+        <file name="Pasted23.svg" crc="107713080" mt="1471349143000"/>
+        <file name="Pasted3.svg" crc="463976034" mt="1471349143000"/>
+        <file name="Pasted4.svg" crc="4151492402" mt="1471349143000"/>
+        <file name="Pasted5.svg" crc="131516119" mt="1471349143000"/>
+        <file name="Pasted6.svg" crc="3761008198" mt="1471349143000"/>
+        <file name="Pasted7.svg" crc="3961366877" mt="1471349143000"/>
+        <file name="Pasted8.svg" crc="4198255442" mt="1471349143000"/>
+        <file name="Pasted9.svg" crc="149104550" mt="1471349143000"/>
+      </folder>
+      <file name="Animatie logopedie intro_edge.js" crc="452802707" mt="1471349143000"/>
+      <file name="Animatie logopedie intro.html" crc="345904835" mt="1471349143000"/>
+    </folder>
+    <folder name="animatie-logopedie-intro">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1438275065000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="455526227" mt="1438275065000"/>
+        <file name="Pasted.svg" crc="274767272" mt="1438275065000"/>
+        <file name="Pasted10.svg" crc="4069488782" mt="1438275065000"/>
+        <file name="Pasted11.svg" crc="357830474" mt="1438275065000"/>
+        <file name="Pasted12.svg" crc="4244452963" mt="1438275065000"/>
+        <file name="Pasted13.svg" crc="390333503" mt="1438275065000"/>
+        <file name="Pasted14.svg" crc="430953508" mt="1438275065000"/>
+        <file name="Pasted15.svg" crc="4094870323" mt="1438275065000"/>
+        <file name="Pasted16.svg" crc="208391197" mt="1438275065000"/>
+        <file name="Pasted2.svg" crc="341326731" mt="1438275065000"/>
+        <file name="Pasted3.svg" crc="463976034" mt="1438275065000"/>
+        <file name="Pasted4.svg" crc="4151492402" mt="1438275065000"/>
+        <file name="Pasted5.svg" crc="131516119" mt="1438275065000"/>
+        <file name="Pasted6.svg" crc="3761008198" mt="1438275065000"/>
+        <file name="Pasted7.svg" crc="3961366877" mt="1438275065000"/>
+        <file name="Pasted8.svg" crc="4198255442" mt="1438275065000"/>
+        <file name="Pasted9.svg" crc="149104550" mt="1438275065000"/>
+      </folder>
+      <file name="Animatie logopedie intro_edge.js" crc="3852257787" mt="1438275065000"/>
+      <file name="Animatie logopedie intro.html" crc="3853868648" mt="1438275065000"/>
+    </folder>
+    <file name="kp-logo.eps" crc="4026349098" seo="true" mt="1438063372000"/>
+    <file name="animatie-logopedie-intro.an" crc="4103182908" seo="true" mt="1471351231000"/>
+    <file name="animatie-logopedie-intro.html" crc="239960391" seo="true" mt="1471351231000"/>
+    <file name="animatie-logopedie-intro-phone.an" crc="427394591" seo="true" mt="1438280567000"/>
+    <file name="animatie-logopedie-intro_edge.js" crc="422195838" seo="true" mt="1471351231000"/>
+    <file name="animatie-logopedie-intro_edgeactions.js" crc="141857106" seo="true" mt="1471351231000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4242129463" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="phone>index"/>
+    <file name="touchswipe.js" crc="474750357" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="phone>index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index:index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index:index"/>
+    <file name="form-u1188.php" crc="436278035" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:index"/>
+    <file name="form-u449.php" crc="263834902" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4081655864" ref="phone>index:index"/>
+    <file name="u3900-4.png" crc="4031308201" ref="phone>index"/>
+    <file name="u3908-4.png" crc="3855999151" ref="phone>index"/>
+    <file name="u3880-4.png" crc="4230528079" ref="phone>index"/>
+    <file name="u3913-4.png" crc="3817891987" ref="phone>index"/>
+    <file name="u3922-4.png" crc="446659606" ref="phone>index"/>
+    <file name="u3895-4.png" crc="4133832925" ref="phone>index"/>
+    <file name="u3886-4.png" crc="4073669137" ref="phone>index"/>
+    <file name="visie icon.png" crc="473066376" ref="phone>index:index"/>
+    <file name="witte ondergrond-01.png" crc="81791040" seo="true" ref="phone>index"/>
+    <file name="olivaar.png" crc="3918756900" ref="phone>index:index"/>
+    <file name="ooievaar.png" crc="3852165229" seo="true" ref="phone>index:index"/>
+    <file name="geplakte-svg-2165144-x-183.svg" crc="204294228" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165144 x 183_poster_.png" crc="3957717920" ref="phone>index:index"/>
+    <file name="geplakte-svg-580114-x-410.svg" crc="184618617" seo="true" ref="phone>index"/>
+    <file name="geplakte svg 580114 x 410_poster_.png" crc="3822897156" ref="phone>index"/>
+    <file name="landscape-01.png" crc="238318034" ref="phone>index:index"/>
+    <file name="landscape-05.png" crc="3957891976" ref="phone>index:index"/>
+    <file name="landscape-04.png" crc="302150577" ref="phone>index:index"/>
+    <file name="landscape-06-u1175-fr.png" crc="520230053" ref="phone>index"/>
+    <file name="landscape-02.png" crc="524344717" ref="phone>index:index"/>
+    <file name="landscape-03.png" crc="4199896066" ref="phone>index:index"/>
+    <file name="eend spreekt-u1230-fr.png" crc="3931563664" ref="phone>index"/>
+    <file name="kip spreekt-u1231-fr.png" crc="105456513" ref="phone>index"/>
+    <file name="geplakte-svg-2165.svg" crc="9017107" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165_poster_.png" crc="3958011238" ref="phone>index:index"/>
+    <file name="prelogopedie icon-u1225-fr.png" crc="3926403786" ref="phone>index"/>
+    <file name="geplakte-svg-2165144-x-1832.svg" crc="281649906" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165144 x 183_poster_2.png" crc="4172173888" ref="phone>index:index"/>
+    <file name="geplakte-svg-2165144-x-173.svg" crc="277205207" seo="true" ref="phone>index:index"/>
+    <file name="geplakte svg 2165144 x 173_poster_.png" crc="3759852219" ref="phone>index:index"/>
+    <file name="u1208-17.png" crc="328274792" ref="phone>index"/>
+    <file name="u1208-17-r.png" crc="374499752" ref="phone>index"/>
+    <file name="u1208-17-m.png" crc="139047130" ref="phone>index"/>
+    <file name="u1208-17-fs.png" crc="3851041682" ref="phone>index"/>
+    <file name="beeldmerknvlfdig.png" crc="30230834" seo="true" ref="phone>index:index"/>
+    <file name="kp logo.png" crc="3915979437" seo="true" ref="phone>index:index"/>
+    <file name="dtltraining.png" crc="452721756" seo="true" ref="phone>index:index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="landscape-06.png" crc="94697976" ref="index"/>
+    <file name="vogeltje animatie.png" crc="3831731030" ref="index"/>
+    <file name="u463-17.png" crc="328274792" ref="index"/>
+    <file name="u463-17-r.png" crc="374499752" ref="index"/>
+    <file name="u463-17-m.png" crc="139047130" ref="index"/>
+    <file name="u463-17-fs.png" crc="3851041682" ref="index"/>
+    <file name="prelogopedie icon.png" crc="3785398644" ref="index"/>
+    <file name="eend spreekt.png" crc="3905758068" ref="index"/>
+    <file name="kip spreekt.png" crc="27506756" ref="index"/>
+    <file name="logopedie boxmeer logo origineel.png" crc="3994054944" seo="true" ref="index"/>
+    <file name="logopedie boxmeer fietstas-02.png" crc="252362311" seo="true" ref="index"/>
+    <file name="geplakte-svg-2165144-x-1833.svg" crc="204294228" seo="true" ref="index"/>
+    <file name="geplakte svg 2165144 x 183_poster_3.png" crc="4141837493" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-stramien.css" crc="56115760" ref="phone>index"/>
+      <file name="index.css" crc="128639674" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4085414716" seo="true" mt="1471351082958" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4077216777" seo="true" mt="1471798143388" redirect="true"/>
+</manifest>
